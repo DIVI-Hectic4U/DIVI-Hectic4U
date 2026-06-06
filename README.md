@@ -23,7 +23,7 @@ B.Tech Computer Science student at **IIIT Jabalpur** (2023–2027) with a dual s
 - 🏆 **2× National Hackathon Winner** — MLH Hackbyte 3.0 (400+ participants) & IGDC NexusForge Game Jam
 - 🎓 **Unity Certified Associate: Programmer** — Unity Technologies (Valid Mar 2026 – Mar 2029)
 - 👥 **Game Dev Lead** — Directed a 250+ member developer community at The Programming Club, IIIT Jabalpur
-- 💡 **Open to SWE Internship Opportunities** for 2025–2026
+- 💡 **Open to SWE Internship Opportunities**
 
 ---
 
