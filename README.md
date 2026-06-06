@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-singh-856696290)
 [![LeetCode](https://img.shields.io/badge/LeetCode_·_1522-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/DIVI_FAEX/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://divi-hectic4u.itch.io)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://divi-faex.itch.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:divs7835@gmail.com)
 
 </div>
@@ -28,25 +28,6 @@ I'm a CS undergrad at **IIIT Jabalpur** who builds across two domains — produc
 
 ---
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DIVI-Hectic4U&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true)
-&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVI-Hectic4U&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=58A6FF)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIVI-Hectic4U&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF)
-
-[![LeetCode](https://leetcard.jacoblin.com/DIVI_FAEX?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/DIVI_FAEX/)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/DIVI-Hectic4U/DIVI-Hectic4U/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
