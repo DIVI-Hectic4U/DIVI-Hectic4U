@@ -17,7 +17,7 @@ I'm a CS undergrad at **IIIT Jabalpur** who builds across two domains — produc
 
 - 🔭 &nbsp;Currently building **[HelpMan](#)** — AI placement prep platform using Groq + Telegram, live with active users
 - 🎮 &nbsp;Specialize in **Unity multiplayer netcode** — solo-built a 1v1 game with sub-150ms P2P latency using NGO + Relay
-- 🏆 &nbsp;**2× National hackathon winner** — MLH Hackbyte 3.0 (400+ teams) & IGDC NexusForge Game Jam
+- 🏆 &nbsp;**1× National hackathon winner** — MLH Hackbyte 3.0 (400+ teams).
 - 🎓 &nbsp;**Unity Certified Associate: Programmer** — Unity Technologies (2026–2029)
 - 👥 &nbsp;**Game Dev Lead** @ The Programming Club — community of 250+ developers
 - 📬 &nbsp;Open to **SWE internship opportunities**
